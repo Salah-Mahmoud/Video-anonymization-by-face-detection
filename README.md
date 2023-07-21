@@ -1,2 +1,2 @@
 # Video-anonymization-by-face-detection
-![image](https://github.com/salah1911/Video-anonymization-by-face-detection/assets/124273567/96f4741c-1588-4fc0-b4cc-1922533878a6)
+![image](https://github.com/salah1911/Video-anonymization-by-face-detection/assets/124273567/b086eb7f-4b8b-400b-952e-1aa2bef6e55e)
